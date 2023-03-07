@@ -1,0 +1,7 @@
+Flask
+pandas
+numpy
+sqlalchemy
+flask_login
+pymysql
+gunicorn
